@@ -22,8 +22,8 @@ Durante o projeto, desenvolvi a lógica para tarefas como:
 
 Neste trabalho, pude consolidar conceitos importantes que são a base para qualquer linguagem de programação:
 
-* **Sequencialidade:** Entendi que um algoritmo é uma sequência finita de passos e que a ordem deles altera o resultado final.
-* **Estruturas de Decisão (SE / ENTÃO):** Aprendi a mapear condições (ex: *Se o pneu estiver cheio, não precisa trocar*).
+* **Sequencialidade:** Entendi que um algoritmo é uma sequência  de passos e que a ordem deles altera o resultado final.
+* **Estruturas de Decisão (SE / ENTÃO):** 
 * **Estruturas de Repetição (ENQUANTO / PARA):** Pratiquei como representar tarefas repetitivas (ex: *Bater a massa até ficar homogênea*).
 * **Abstração:** Desenvolvi a capacidade de olhar para um problema real e identificar apenas os passos essenciais para resolvê-lo.
 * **Sintaxe e Organização:** Aprendi a estruturar um "código" para que outros desenvolvedores consigam ler e entender a lógica aplicada.
@@ -31,11 +31,9 @@ Neste trabalho, pude consolidar conceitos importantes que são a base para qualq
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-* **Markdown:** Para a documentação deste repositório.
-* **Pseudocódigo:** Lógica estruturada em português.
-* **Mermaid.js / Fluxogramas:** Para representação visual dos processos.
+* Word
 
 ---
 
 ### ✍️ Autor
-Desenvolvido por [Seu Nome Aqui]
+Desenvolvido por [miguel Augusto Porto Coutinho]
