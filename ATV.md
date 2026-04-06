@@ -1,4 +1,4 @@
-# Trabalho de Lógica de Programação: Pseudocódigo e Fluxograma 🚀
+# Trabalho de Lógica de Programação: Pseudocódigo e Fluxograma 🚀 
 
 Este repositório contém as atividades e estudos realizados para a disciplina de **Lógica de Programação**, realizado no centro educacional SENAI A' Jacob Lafer. O foco principal deste trabalho foi a abstração de processos cotidianos e sua conversão para linguagens estruturadas (algoritmos).
 
